@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Restaurant Finder</string>
+
+    <string name="first">First:</string>
+    <string name="address">Enter location address</string>
+    <string name="option2">Or press</string>
+    <string name="restaurant_type">Then, select restaurant type:</string>
+    <string name="favorite_restaurants">Favorite restaurants:</string>
+    <string name="restaurant_rating">Rating:</string>
+    <string name="restaurant_price">Price:</string>
+    <string name="add_to_widget_button">Add to widget</string>
+
+    /*content description*/
+    <string name="restaurant_image">restaurant image</string>
+    <string name="restaurant_location">restaurant location</string>
+    <string name="favorite_restaurant">favorite restaurant</string>
+    <string name="find_location">find location</string>
+    <string name="enter_address">enter address</string>
+    <string name="type_restaurant">select restaurant type</string>
+    <string name="restaurant_price_content">restaurant price</string>
+    <string name="select_favorite_restaurant">select restaurant as favorite</string>
+
+
+    <string name="location_search">Restaurant location:</string>
+    <string name="restaurant_type_selected">Restaurant type:</string>
+
+
+    <string name="menu_rating_label">Rating</string>
+    <string name="menu_cost_label">Cost</string>
+    <string name="menu_distance_label">Distance</string>
+
+
+    <string name="need_location_permission_message">You need to enable location permissions first</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

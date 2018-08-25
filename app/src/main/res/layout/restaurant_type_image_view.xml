@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="2dp">
+
+    <ImageView
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:id="@+id/rest_type_image"
+        android:layout_margin="4dp"
+        android:padding="1dp"
+        android:background="@drawable/touch_selector"
+        android:elevation="4dp"
+        android:transitionName="imageType"
+
+        android:contentDescription="@string/type_restaurant">
+    </ImageView>
+
+</LinearLayout>

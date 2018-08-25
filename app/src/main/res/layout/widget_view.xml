@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:id="@+id/restaurant_icon_widget"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/restaurant_icon"
+        android:background="@drawable/background_border"
+        android:contentDescription="@string/restaurant_image"
+        />
+
+    <TextView
+        android:id="@+id/restaurant_name_widget"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:scrollHorizontally="true"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:textSize="14sp"/>
+
+
+
+    <ImageButton
+        android:id="@+id/restaurant_location_button_widget"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/ic_restaurant_location"
+        android:contentDescription="@string/restaurant_location"
+        />
+
+</LinearLayout>

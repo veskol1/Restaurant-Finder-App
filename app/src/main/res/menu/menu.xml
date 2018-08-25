@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_menu_rating"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="@string/menu_rating_label"
+        />
+    <item
+        android:id="@+id/action_menu_cost"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:title="@string/menu_cost_label"
+        />
+    <item
+        android:id="@+id/action_menu_distance"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        android:title="@string/menu_distance_label"
+        />
+
+
+</menu>
