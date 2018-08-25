@@ -15,9 +15,10 @@ The app used Zomado Api.
 Used - java ,butterknife, json, ASyncTask, AsyncTaskLoader<Cursor>, SQLite,RecyclerView, Picasso, Content Providers, 
        Loader, Play-services-maps/location/places, widget, Design .
 ## Screens
-![whatsapp image 2018-08-25 at 20 31 44](https://user-images.githubusercontent.com/13125281/44620937-1b3fbe80-a8a6-11e8-92d3-b095821eb79e.jpeg)
-  
-![whatsapp image 2018-08-25 at 20 20 19 1](https://user-images.githubusercontent.com/13125281/44620939-1e3aaf00-a8a6-11e8-8244-44626174669a.jpeg)
-  
-![whatsapp image 2018-08-25 at 20 20 10](https://user-images.githubusercontent.com/13125281/44620940-20047280-a8a6-11e8-8e99-22e6d0e11e2c.jpeg)
+     
+<img src="https://user-images.githubusercontent.com/13125281/44620937-1b3fbe80-a8a6-11e8-92d3-b095821eb79e.jpeg" height="480" width="270">
+
+<img src="https://user-images.githubusercontent.com/13125281/44620939-1e3aaf00-a8a6-11e8-8244-44626174669a.jpeg" height="480" width="270">
+
+<img src="https://user-images.githubusercontent.com/13125281/44620940-20047280-a8a6-11e8-8e99-22e6d0e11e2c.jpeg" height="480" width="270">
 
