@@ -2,12 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        config {
-            keyAlias 'udacity'
-            keyPassword 'password'
-            storeFile file('C:/Users/Vesko/Desktop/Capstone/keystore.jks')
-            storePassword 'password'
-        }
     }
     compileSdkVersion 27
     defaultConfig {
@@ -22,11 +16,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.config
         }
-        debug {
-            signingConfig signingConfigs.config
-        }
+
     }
 }
 
