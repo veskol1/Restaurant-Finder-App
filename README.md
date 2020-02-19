@@ -16,9 +16,9 @@ Used - java ,butterknife, json, ASyncTask, AsyncTaskLoader<Cursor>, SQLite,Recyc
        Loader, Play-services-maps/location/places, widget, Design .
 ## Screens
      
-<img src="https://user-images.githubusercontent.com/13125281/44620937-1b3fbe80-a8a6-11e8-92d3-b095821eb79e.jpeg" height="480" width="270">
+<img src="https://user-images.githubusercontent.com/13125281/44620937-1b3fbe80-a8a6-11e8-92d3-b095821eb79e.jpeg" height="520" width="310">
 
-<img src="https://user-images.githubusercontent.com/13125281/44620939-1e3aaf00-a8a6-11e8-8244-44626174669a.jpeg" height="480" width="270">
+<img src="https://user-images.githubusercontent.com/13125281/44620939-1e3aaf00-a8a6-11e8-8244-44626174669a.jpeg" height="520" width="310">
 
-<img src="https://user-images.githubusercontent.com/13125281/44620940-20047280-a8a6-11e8-8e99-22e6d0e11e2c.jpeg" height="480" width="270">
+<img src="https://user-images.githubusercontent.com/13125281/44620940-20047280-a8a6-11e8-8e99-22e6d0e11e2c.jpeg" height="520" width="310">
 
